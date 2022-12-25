@@ -1,0 +1,16 @@
+html, body { height: 100%; }
+
+body {
+  font-family: "Montserrat";
+  font-family: "Open Sans";
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.copyright {
+  padding: 20px 20px;
+  color: black;
+}
